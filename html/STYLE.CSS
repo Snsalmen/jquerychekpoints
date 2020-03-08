@@ -1,0 +1,193 @@
+
+   body{ background-image:  Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%)
+    , Linear-gradient(127deg, black, black 70.71%)
+     ,Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    margin: 0em;
+    padding: 0em;
+ 
+}
+.header{
+    background-repeat: no-repeat;
+   width: 5%;
+   height: 5%;
+}
+
+ ul{ 
+    
+   
+    display: flex;
+  
+}
+a li {
+    list-style: none;
+}
+a{
+    font-weight: 900;
+    font-size: 40px;
+    color: white;
+    margin-right: 10%;
+    margin-left: 10%;
+    text-decoration: none;
+    
+    display: inline-block;
+    width: 100%;
+    height: 50px;
+}
+a:hover{
+    color: honeydew;
+}
+
+a:active {
+    color: aqua;
+}
+img{
+    width: 100%;
+}
+.img{
+    width: 30%;
+    height: 30%;
+    margin-left: 30px;
+    margin-top: 30px;
+    display: inline-block;
+}
+#image {
+    background-image: url("couses123.webp");
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-size: 100px;
+    color:white;
+    padding: 10%;
+    margin-top: 0em;
+    
+
+}
+.TYPE{
+    display: block;
+    color: white;
+    margin: 0 auto 0 auto;
+justify-content: center;
+}
+.sabmit{
+    color: blue;
+    border-color: blue;
+}
+input{
+    background-color: blue;
+    border-color: blue;
+    border-radius: 20px;
+}
+#txt{
+    width: 300px;
+    height: 140px;
+}
+
+.b1{
+    background-image: url("cour8.jpg");
+    background-repeat: no-repeat;
+    margin-left: 3%;
+    width: 30%;
+    height: 300px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+}
+.b2{
+    background-image: url(cour6.jfif);
+    background-repeat: no-repeat;
+    margin-left: 3%;
+    width: 30%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+}
+.b3{
+    background-image: url(cour7.jpg);
+    background-repeat: no-repeat;
+    margin-left: 3%;
+    width: 30%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+}
+.b4{
+    background-image: url(cour5.jfif);
+    background-repeat: no-repeat;
+    margin-left: 3%;
+    width: 30%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+}
+.b5{
+    background-image: url(cour4.jfif);
+    background-repeat: no-repeat;
+    margin-left: 3%;
+    width: 30%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+}
+.b6{
+    background-image: url(cour5.jfif);
+    background-repeat: no-repeat;
+    margin-left: 3%;
+    width: 30%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+
+}
+.b7{
+    background-image: url(cour4.jfif);
+    background-repeat: no-repeat;
+    margin-left: 3%;
+    width: 30%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+}
+.b8{
+    background-image: url(cour9.jpg);
+    background-repeat: no-repeat;
+    margin-left: 3%;
+    width: 30%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    
+}
+.b9{
+    background-image: url(cour3.jfif);
+    background-repeat: no-repeat;
+    margin-left: 3%;
+    width: 30%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+}
+.b{
+    display: none;
+}
+
+.div3{
+    display: flex;
+    margin-top: 40px;
+}
